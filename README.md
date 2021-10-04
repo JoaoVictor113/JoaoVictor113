@@ -1,9 +1,14 @@
 Olá, Eu sou o João Victor, amante da tecnologia!  
 
+🔭 Estou trabalhando com front-end
+🌱 estudando HTML5, CSS3 e JS
+📫 Contate-me pelo email: joaovictoravalente@gmail.com
+😄 Pronomes: ele/dele
+
 <div align="center">
-  <a href="https://github.com/JoaoVictor123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictor123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor123&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/JoaoVictor113">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictor113&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor113&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br> <br>
