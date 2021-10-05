@@ -1,4 +1,4 @@
-Olá, Eu sou o João Victor, amante da tecnologia!  
+Olá, Eu sou o João Victor amante de tecnologia!  
 
 - 🔭 Estou trabalhando com front-end
 - 🌱 estudando HTML5, CSS3 e JS
