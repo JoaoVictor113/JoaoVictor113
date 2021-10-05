@@ -1,9 +1,9 @@
 Olá, Eu sou o João Victor, amante da tecnologia!  
 
-🔭 Estou trabalhando com front-end
-🌱 estudando HTML5, CSS3 e JS
-📫 Contate-me pelo email: joaovictoravalente@gmail.com
-😄 Pronomes: ele/dele
+- 🔭 Estou trabalhando com front-end
+- 🌱 estudando HTML5, CSS3 e JS
+- 📫 Contate-me pelo email: joaovictoravalente@gmail.com
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/JoaoVictor113">
